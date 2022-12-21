@@ -7,7 +7,7 @@
 //! - Training examples including version 1.5 of Stable Diffusion.
 //! - Some basic transformers implementation for handling user prompts.
 //!
-//! The models can used pre-trained weights adapted from the Python
+//! The models can use pre-trained weights adapted from the Python
 //! implementation.
 
 pub mod models;
